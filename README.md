@@ -1,4 +1,6 @@
-Mostly understanding the components of a Counter-Strike demo. Answering these questions to start
+Mostly understanding the components of a Counter-Strike demo. Answering these questions to start:
+
+
 ### Round-Level Analysis
 1. **Rounds and Outcomes**:
    - How many rounds were played in the match?
@@ -52,3 +54,7 @@ Mostly understanding the components of a Counter-Strike demo. Answering these qu
 12. **Damage Statistics**:
     - Who dealt the most total damage across all rounds?
     - How does the average damage dealt compare between players on each team?
+   
+
+
+But I would also like to build a model to display how a teams win probability changes as the round progresses
