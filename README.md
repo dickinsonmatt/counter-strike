@@ -57,4 +57,6 @@ Mostly understanding the components of a Counter-Strike demo. Answering these qu
    
 
 
-But I would also like to build a model to display how a teams win probability changes as the round progresses
+But I would also like to build a model to display how a teams win probability changes as the round progresses.
+
+Currently working on Survival Analysis of players in rounds.
